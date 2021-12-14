@@ -1,16 +1,18 @@
 # EN
-Change the aiming camera by command or pressing a key.
+Change the aiming camera by command or pressing a key.<br />
 
-/pierwsza - FP while aiming
-/trzecia - TP while aiming
-[ - TP
-] - FP
+- /pierwsza - FP while aiming<br />
+- /trzecia - TP while aiming<br />
+- `]` - FP<br />
+- `[` - TP<br />
+
 
 # PL
-Zmiana kamery celowania poprzez komendę lub naciśnięcie klawisza.
+Zmiana kamery celowania poprzez komendę lub naciśnięcie klawisza.<br />
 
-/pierwsza - Pierwsza osoba podczas celowania
-/trzecia - Trzecia osoba podczas celowania
-[ - Trzecia osoba
-] - Pierwsza osoba
+- /pierwsza - Pierwsza osoba podczas celowania<br />
+- /trzecia - Trzecia osoba podczas celowania<br />
+- `]` - Pierwsza osoba<br />
+- `[` - Trzecia osoba<br />
+
 
